@@ -39,7 +39,7 @@
   <p align="center">
     Repositório para documentação do projeto.
     <br />
-    <a href="https://github.com/produtosmontaveis/AMS-ADS-GR-3-DOC"><strong>Ver os documentos »</strong></a>
+    <a href="https://github.com/FalaFatec/AMS-ADS-GR-4-DOC"><strong>Ver os documentos »</strong></a>
     <br />
     <br />
   </p>
@@ -69,35 +69,34 @@
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
 </details>
 
 
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## Sobre o projeto
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Necessidade:
+A ideia do projeto surgiu com a análise e experiência vivida dentro da FATEC São Caetano, onde foi possível observar a necessidade de um canal de comunicação mais prático, e a falta de conexão entre a comunidade da faculdade.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+Objetivo:
+Esse projeto busca criar um novo paradigma na comunicação interna de uma unidade FATEC, promovendo comunicação entre os alunos, corpo docente, setor administrativo e diretoria dessa unidade.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
-
-Use the `BLANK_README.md` to get started.
+Benefícios:
+* Proporcionar formas eficientes de comunicação entre as camadas que formam a comunidade FATEC;
+* Agilizar ações de interesse comum entre as camadas que formam a comunidade FATEC;
+* Possibilitar maior interessão entre cursos distintos de uma unidade FATEC.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
-### Built With
+### Tecnologias
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+Aqui estão citadas as principais tecnologias que estão sendo utilizadas para o desenvolvimento desse projeto, existem mais informações de como a apicação delas está sendo feita no <a href="https://github.com/FalaFatec/AMS-ADS-GR-4-FALA-FATEC"><strong>repositório de código »</strong></a>
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
