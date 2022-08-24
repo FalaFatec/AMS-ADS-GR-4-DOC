@@ -98,14 +98,16 @@ Benefícios:
 
 Aqui estão citadas as principais tecnologias que estão sendo utilizadas para o desenvolvimento desse projeto, existem mais informações de como a apicação delas está sendo feita no <a href="https://github.com/FalaFatec/AMS-ADS-GR-4-FALA-FATEC"><strong>repositório de código »</strong></a>
 
-* [![Html][Html.com]][Html-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Html][Html.com]]
+* [![Css][Css.com]]
+* [![Javascript][Javascript.com]][Javascript-url]
+* [![Json][Json.com]][Json-url]
+* [![Trello][Trello.com]][Trello-url]
+* [![PostgreSQL][Postgre.com]][Postgre-url]
+* [![Spring][Spring.com]][Spring-url]
+* [![Postman][Postman.com]][Postman-url]
+* [![IntelliJ][IntelliJ.com]][IntelliJ-url]
+* [![VSCode][VisualStudioCode.com]][VisualStudioCode-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
