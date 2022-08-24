@@ -98,8 +98,8 @@ Benefícios:
 
 Aqui estão citadas as principais tecnologias que estão sendo utilizadas para o desenvolvimento desse projeto, existem mais informações de como a apicação delas está sendo feita no <a href="https://github.com/FalaFatec/AMS-ADS-GR-4-FALA-FATEC"><strong>repositório de código »</strong></a>
 
-* [![Html][Html.com]]
-* [![Css][Css.com]]
+* [![Html][Html.com]
+* [![Css][Css.com]
 * [![Javascript][Javascript.com]][Javascript-url]
 * [![Json][Json.com]][Json-url]
 * [![Trello][Trello.com]][Trello-url]
