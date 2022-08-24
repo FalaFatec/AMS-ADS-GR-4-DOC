@@ -204,8 +204,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 
-<!-- CONTACT -->
-## Contact
+<!-- CONTATO -->
+## Contato
 
 Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
 
